@@ -1,0 +1,12 @@
+*fullGWAS.tsv
+*allcleaned.tsv
+IndSigSNPs.txt
+*VEPinput.tsv
+VEPoutput.*
+*noheader.tsv
+./permutationspython/*annotationsnew.tsv
+./permutationspython/*signnew.tsv
+./permutationspython/*permutationready.tsv
+./permutationspython/figure_*_chrom_1.png
+./permutationspython/imagefiles.zip
+./permutationspython/pvals_all.tsv
